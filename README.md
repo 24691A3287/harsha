@@ -11,7 +11,7 @@ driver.get("https://www.whatsapp.com/")
 input("Press Enter to close...")
 
 driver.quit() 
-#pip install webdrive -manager
+#pip install webdriver-manager
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
